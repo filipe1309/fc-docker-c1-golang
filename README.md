@@ -10,9 +10,9 @@ This project was developed following [FullCycle's Docker Module - Challenge 1](h
 
 ### Challenge 1
 
--   [x] Publish an image to the docker hub
+-   [x] Publish an image to the docker hub ([devontherun/codeeducation](https://hub.docker.com/repository/docker/devontherun/codeeducation))
 -   [x] App should print: `Code.education Rocks!`
--   [x] Final image should be less than 2MB
+-   [x] Final image should be less than 2MB `(local: 1.36MB, compressed: 550.51KB)`
 
 ## :computer: Technologies
 
